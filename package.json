@@ -1,0 +1,18 @@
+{
+  "name": "fastwebconn",
+  "version": "0.0.1",
+  "description": "Small module to make webtorrent work well with Blossom servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nostr"
+  ],
+  "author": "Stuart Bowman",
+  "license": "MIT",
+  "dependencies": {
+    "bittorrent-protocol": "^4.1.14",
+    "lt_donthave": "^2.0.2"
+  }
+}
